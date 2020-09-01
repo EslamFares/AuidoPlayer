@@ -1,5 +1,9 @@
 # audio_player
-
+<p float="left">
+  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" />
+  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" /> 
+  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" />
+</p>
 A new Flutter project.
 
 ## Getting Started
