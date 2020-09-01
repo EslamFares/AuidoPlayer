@@ -1,8 +1,8 @@
 # audio_player
 <p float="left">
-  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" />
-  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" /> 
-  <img src="https://github.com/EslamFares/Buy-It/blob/master/img/img_from_app/login.png" width="200" />
+  <img src="https://github.com/EslamFares/AuidoPlayer/blob/master/assets/img_from_app/4.jpeg?raw" width="200" />
+  <img src="https://github.com/EslamFares/AuidoPlayer/blob/master/assets/img_from_app/5.jpeg?raw=true" width="200" /> 
+  <img src="https://github.com/EslamFares/AuidoPlayer/blob/master/assets/img_from_app/6.jpeg?raw=true" width="200" />
 </p>
 A new Flutter project.
 
